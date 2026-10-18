@@ -622,33 +622,9 @@ Client                            Backend
 | CSRF | Disabled (stateless REST) |
 | Session policy | `STATELESS` |
 
----
 
-## 🤝 Contributing
 
-1. **Fork** the repository
-2. **Create** a branch: `git checkout -b feature/my-feature`
-3. **Commit**: `git commit -m 'feat: add my feature'`
-4. **Push**: `git push origin feature/my-feature`
-5. **Open** a Pull Request
-
-### Commit Convention ([Conventional Commits](https://www.conventionalcommits.org/))
-
-| Prefix | Purpose |
-|---|---|
-| `feat:` | New features |
-| `fix:` | Bug fixes |
-| `docs:` | Documentation |
-| `refactor:` | Code refactoring |
-| `chore:` | Build / config |
-| `test:` | Tests |
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-<p align="center">Built with ❤️ using Spring AI, React, and pgvector</p>
+<p align="center">Built with ❤️ </p>
